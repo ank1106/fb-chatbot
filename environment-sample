@@ -1,0 +1,6 @@
+## rename this file to environment to test this project locally 
+## and replace < > with real values
+ 
+LONG_ACCESS_TOKEN=<fb-page-access-token>
+SECRET_KEY=<django-secret-key>
+SETTINGS=<settings-module-path>
