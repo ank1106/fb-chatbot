@@ -4,7 +4,6 @@ import json
 from .fb import FBMessenger
 from .wiki_api import searchWiki
 import os
-# token = "EAAGFLdrS7VwBAF9ZB7Mu9xS6wKPlcsnXGlaJ7mKLjZCav2VL3sRuygDVqzg52OorOknyoUWQLwm9fUnFcCznZB8LtcmRGfjfTWnXRV5KKWhykrfKcAjgKZANZBKqsunfLvycX6ZBwLvMGWJZAb1FKlGXoeaEj5ExfESa6mY5xQYZBQZDZD"
 
 class FacebookAPI(APIView):
 
